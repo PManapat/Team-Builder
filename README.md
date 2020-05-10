@@ -31,9 +31,9 @@ node app.js
 ```
 ### Demo
 
-![Team Builder Demo](demo.gif)
+![Team Builder Demo](Demo.gif)
 
-![Team Builder HTML](demo.png)
+![Team Builder HTML](Demo.png)
 
 ### Test
 
